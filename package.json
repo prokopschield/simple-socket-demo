@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"@prokopschield/simple-socket-client": "^0.1.0-2",
+		"@prokopschield/simple-socket-server": "^0.0.1-4",
+		"dotenv": "^16.3.1",
+		"ps-std": "^0.1.26"
+	},
+	"license": "GPL-3.0-or-later"
+}
